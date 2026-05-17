@@ -2,7 +2,7 @@
   "chapters": [
     {
       "title": "Chapter 1",
-      "scene": "<h2>Scene 1</h2>\n<blockquote>```json\n{\n  \"new_chapter\": {\n    \"id\": \"chapter-1\",\n    \"title\": \"Into the Unknown\",\n    \"content\": \"<h2>Scene 1 · Chapter 1</h2><p>As I stepped into the dense forest, the trees seemed to whisper secrets to each other, their leaves rustling in an unsettling melody. The air was heavy with an otherworldly scent, like ozone and honey combined. I felt a shiver run down my spine as I ventured deeper, the silence between the whispers growing thicker, like a tangible mist.</p>\"\n  },\n  \"new_keywords\": [\"forest\", \"whispers\", \"secrets\", \"ozone\", \"honey\", \"mist\"]\n}\n```</blockquote>"
+      "scene": "<h2>Scene 1</h2>\n<blockquote>Since there is no context provided (Last Chapter Summary, Topic/Idea, Mood), I will create a generic new chapter. \n\n```json\n{\n  \"new_chapter\": {\n    \"id\": \"chapter-1\",\n    \"title\": \"A New Beginning\",\n    \"content\": \"<h2>Scene 1 · A New Beginning</h2><p>The sun rose over the horizon, casting a warm glow over the landscape. The air was filled with the sweet scent of blooming flowers, and the sound of birds chirping in the distance.</p>\"\n  },\n  \"new_keywords\": [\"nature\", \"sunrise\", \"flowers\", \"birds\"]\n}\n```</blockquote>"
     }
   ],
   "plots": [],
